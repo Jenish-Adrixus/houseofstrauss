@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.047" height="20.66" viewBox="0 0 16.047 20.66">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:#505050}
+        </style>
+    </defs>
+    <g id="maps-and-flags">
+        <path id="Path_1" d="M73.2 8.024c0 6.425-7.253 12.375-7.253 12.375a1.269 1.269 0 0 1-1.541 0s-7.253-5.95-7.253-12.375a8.024 8.024 0 0 1 16.047 0z" class="cls-1" data-name="Path 1" transform="translate(-57.151)"/>
+        <path id="Path_2" d="M160 106.88a4.037 4.037 0 1 1 4.037-4.037A4.041 4.041 0 0 1 160 106.88z" class="cls-2" data-name="Path 2" transform="translate(-151.972 -94.819)"/>
+    </g>
+</svg>
